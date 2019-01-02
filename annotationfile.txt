@@ -6,7 +6,9 @@ d
 da
 sd
 asd
-as
+as Change 2
+change 2
+change 2
 d
 asd
 as
@@ -22,7 +24,7 @@ as
 da <<Change is this line>>
 sd
 a
-d
+d Change 3
 
 
 as
@@ -48,3 +50,4 @@ asdas
 da
 sd
 a
+change 4
