@@ -1,1 +1,2 @@
 A new test file . txt
+add an other change to an file
